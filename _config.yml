@@ -1,5 +1,5 @@
 # Site
-title:              Davin DevBlog
+title:              "Davin's DevBlog"
 bio:                "I want to shine, but I can't, so I type the keyboard again today."
 description:        "Hello! My name is Davin. I live in Korea and am a student now."
 reading_time:       true
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email: minsung77211@gmail.com
+#twitter:            username
+#facebook:           username
+github-url:         CristalStudio-Davin
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
