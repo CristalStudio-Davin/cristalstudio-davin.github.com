@@ -1,7 +1,7 @@
 # Site
 title:              "Davin's DevBlog"
-bio:                "I want to shine, but I can't, so I type the keyboard again today."
-description:        "Hello! My name is Davin. I live in Korea and am a student now."
+bio:                "I want to shine, but I can't, so I type the keyboard again today. \n 난 빛나고 싶지만 그렇지 못하기에, 난 오늘도 키보드를 친다."
+description:        "Hello! My name is Davin. I live in Korea and am a student now. \n 안녕하세요! 제 이름은 다빈입니다. 저는 지금 한국에 살고있고 학생입니다."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
