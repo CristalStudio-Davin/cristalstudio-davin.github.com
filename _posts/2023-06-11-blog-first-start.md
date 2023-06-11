@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "다빈 블로그의 시작"
-date:   2016-04-06
+date:   2023-06-11
 excerpt: "다빈 블로그가 시작된 기념으로 쓰는 포스트"
 tag: [Davin, blog]
 comments: true
