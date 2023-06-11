@@ -1,37 +1,28 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 다빈의 블로그의 대하여
+tags: [다빈, about]
+date: 2023-06-11
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><b>난 빛나고 싶지만 그렇지 못하기에, 난 오늘도 키보드를 친다.<b></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 인사 및 자기소개
+안녕하세요! 다빈이라고 합니다. 이 블로그를 볼 일이야 그닥 없으시겠지만, 반갑습니다!
+저는 지금 한국에서 거주중이고요, 현재 학생입니다.
 
-## Preview
+## 이 블로그에서 다룰 것들
+이 블로그에서는 다음과 같은 것을 다룰 것입니다.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+* 프로그래밍 일지
+* 유니티로 게임 개발
+* 학원 숙제 일지
+* 평범한 일상 (개발과는 상관이 그닥 없는듯 합니다.)
+* 그리고 등등등...
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## 블로그 주인장과 연락하는법
+만약 저에게 연락하고 싶으시다면, 이메일 주소로 이메일을 보내주세요.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+> 네이버 이메일 주소: <kmskr11@naver.com>
+> 구글 이메일 주소: <minsung77211@gmail.com>
